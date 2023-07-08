@@ -1,4 +1,4 @@
-# Psitegrad's-Cooking-Rebalance for Made in Abyss BSFD
+# Psitegrad's Cooking Rebalance for Made in Abyss BSFD
 A mod that aims to rebalance cooking recipes in this game.
 
 We are delvers that put our lives on the line while challenging the abyss, we can handle some food without salt.
