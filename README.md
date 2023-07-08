@@ -69,7 +69,7 @@ Modded
 + Gorgeous Hot Pot > Increased Magotato + Stick Miso from 1 to 2
 
 ### Work document
-The [document](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/blob/main/Psit%C3%A9grad's%20Cooking%20Rebalance%20-%20Work%20Document.pdf) I used while working on the mod.
+The [document](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/blob/main/Psit%C3%A9grad's%20Cooking%20Rebalance%20-%20Work%20Document.pdf) I made while working on the mod.
 
 Maybe a fellow diver will find an use for it.
 
