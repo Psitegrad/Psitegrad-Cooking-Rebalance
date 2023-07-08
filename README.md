@@ -15,7 +15,7 @@ Note that this is my personal preference, salt was removed from the most cooked 
 
 
 ### Download
-https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance.git
+[https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance.git](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/releases/tag/v1.0)
 
 
 ### Compatibility
