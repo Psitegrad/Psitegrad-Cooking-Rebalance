@@ -1,26 +1,17 @@
 # Psitegrad's Cooking Rebalance for Made in Abyss BSFD
-A mod that aims to rebalance cooking recipes in this game.
 
+A mod that aims to rebalance cooking recipes in this game.  
 We are delvers that put our lives on the line while challenging the abyss, we can handle some food without salt.
 
 Note that this is my personal preference, salt was removed from the most cooked recipes and left where I think it would make sense or if the requirement is high enough on its own that you should be sufficiently prepared to make it in the first place.
 
 
-### How to Install
-+ Download the file
-+ Navigate to C:\Program Files (x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Content\Paks
-+ Paste the file
-+ Make sure the file's name is MadeInAbyss-BSFD-WindowsNoEditor_<Anything>_P.pak; with <Anything> being a number, a name or whatever.
-+ You're done!
+### Description
 
++ Removed salt requirement for a number of recipes.
++ Reduced ingredients requirement for a number of recipes.
++ Increased ingredients requirement for a select few recipes.
 
-### Download
-[https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance.git](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/releases/tag/v1.0)
-
-
-### Compatibility
-
-Will conflict with any mods that edit the DT_CookingRecipe file.
 
 ### Screenshots
 
@@ -31,6 +22,31 @@ Vanilla
 Modded
 
 ![Modded Recipe](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/blob/main/Modded%20Recipe.PNG)
+
+
+### Download
+[https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance.git](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/releases/tag/v1.0)
+
+
+### Compatibility
+
+Will conflict with any mods that edit the DT_CookingRecipe file.
+
+
+### How to Install
++ Download the file
++ Navigate to C:\Program Files (x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Content\Paks
++ Paste the file
++ Make sure the file's name is MadeInAbyss-BSFD-WindowsNoEditor_<Anything>_P.pak; with <Anything> being a number, a name or whatever.
+(I did this for you already, but if you know what you're doing feel free to change it !)
++ Enjoy !
+
+
+### How to uninstall
++ Navigate to `C:\Program Files (x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Content\Paks`
++ Remove my mod .pak file
++ Done !
+
 
 ### Full Changelog
 
@@ -72,8 +88,3 @@ Modded
 The [document](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/blob/main/Psit%C3%A9grad's%20Cooking%20Rebalance%20-%20Work%20Document.pdf) I made while working on the mod.
 
 Maybe a fellow diver will find an use for it.
-
-### How to uninstall
-+ Navigate to `C:\Program Files (x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Content\Paks`
-+ Remove the mod pak
-+ You're done!
