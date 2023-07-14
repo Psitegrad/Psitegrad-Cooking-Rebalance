@@ -83,6 +83,7 @@ Will conflict with any mods that edit the DT_CookingRecipe file.
 + Shellfish Pot > Crustacean Meat reduced from 3 to 2
 
 + Gorgeous Hot Pot > Increased Magotato + Stick Miso from 1 to 2
++ Mustard Steam Bun > Increased Magotato from 1 to 2
 
 ### Work document
 The [document](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/blob/main/Psit%C3%A9grad's%20Cooking%20Rebalance%20-%20Work%20Document.pdf) I made while working on the mod.
