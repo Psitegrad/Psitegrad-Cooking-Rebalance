@@ -25,7 +25,7 @@ Modded
 
 
 ### Download
-[https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance.git](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/releases/tag/v1.0)
+[https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance.git](https://github.com/Psitegrad/Psitegrad-Cooking-Rebalance/releases)
 
 
 ### Compatibility
