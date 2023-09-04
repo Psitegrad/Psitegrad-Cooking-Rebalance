@@ -86,6 +86,6 @@ Will conflict with any mods that edit the DT_CookingRecipe file.
 + Mustard Steam Bun > Increased Magotato from 1 to 2
 
 ### Work document
-The [document](https://github.com/Psitegrad/Psitegrad-s-Cooking-Rebalance/blob/main/Psit%C3%A9grad's%20Cooking%20Rebalance%20-%20Work%20Document.pdf) I made while working on the mod.
+The [document](https://github.com/Psitegrad/Psitegrad-Cooking-Rebalance/blob/main/MiA%20Mod%20-%20Psit%C3%A9grad's%20Cooking%20Rebalance%201.01.pdf) I made while working on the mod.
 
 Maybe a fellow diver will find an use for it.
